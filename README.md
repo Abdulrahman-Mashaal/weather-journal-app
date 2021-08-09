@@ -4,10 +4,10 @@ Weather-Journal App Project Content & Project Resources
 
 ## Table of Contents
 
-- [overview](#Weather-Journal App Projecterview)
+- [overview](#overview)
 - [Project](#project)
 
-## Weather-Journal App Project
+## overview
 
 This project create an asynchronous web app that uses Web API and user data to dynamically update the UI.
 
